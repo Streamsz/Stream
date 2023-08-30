@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Streamsz
+- 👋 Hi, I’m Stream @Streamsz
 - 👀 I’m interested in python.
 - 🌱 I’m currently learning python
 - 📫 How to reach me: Stream_Wang@outlook.com
